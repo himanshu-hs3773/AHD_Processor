@@ -1,0 +1,39 @@
+# do {SevenSeg_Top_compile.do}
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/work".
+# 
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim".
+# 
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/xil_defaultlib".
+# 
+# Model Technology ModelSim PE vmap 10.4a Lib Mapping Utility 2015.03 Apr  7 2015
+# vmap xil_defaultlib modelsim_lib/msim/xil_defaultlib 
+# Modifying modelsim.ini
+# ** Warning: (vcom-159) Mode option -64 is not supported in this context and will be ignored.
+# 
+# Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 20:15:35 on Dec 08,2018
+# vcom -64 -93 -work xil_defaultlib ../../../../MIPS_Processor_REV_2.srcs/sources_1/new/ALU.vhd ../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Data_Memory.vhd ../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Hex2LED.vhd ../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Instruction_Memory.vhd ../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Program_Counter.vhd ../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Register_File.vhd ../../../../MIPS_Processor_REV_2.srcs/sources_1/new/control_unit.vhd ../../../../MIPS_Processor_REV_2.srcs/sources_1/new/MIPS_topModule.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ALU
+# -- Compiling architecture Behavioral of ALU
+# -- Compiling entity datamem
+# -- Compiling architecture Behavioral of datamem
+# -- Compiling entity Hex2LED
+# -- Compiling architecture Behavioral of Hex2LED
+# -- Compiling entity Instruction_Memory_module
+# -- Compiling architecture Behavioral of Instruction_Memory_module
+# -- Compiling entity Program_Counter_module
+# -- Compiling architecture Behavioral of Program_Counter_module
+# -- Compiling entity Register_File
+# -- Compiling architecture Behavioral of Register_File
+# -- Compiling entity Control_Unit
+# -- Compiling architecture Behavioral of Control_Unit
+# -- Compiling entity SevenSeg_Top
+# -- Compiling architecture Behavioral of SevenSeg_Top
+# End time: 20:15:35 on Dec 08,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1

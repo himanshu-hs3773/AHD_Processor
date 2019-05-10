@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Nov 26 17:45:03 2018
+# Process ID: 18628
+# Current directory: C:/Users/Amogue/vivado_projects/MIPS_Processor_REV_2/MIPS_Processor_REV_2.sim/sim_1/impl/timing/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Amogue/vivado_projects/MIPS_Processor_REV_2/MIPS_Processor_REV_2.sim/sim_1/impl/timing/xsim/xsim.dir/SevenSeg_Top_time_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Amogue/vivado_projects/MIPS_Processor_REV_2/MIPS_Processor_REV_2.sim/sim_1/impl/timing/xsim/webtalk.log
+# Journal file: C:/Users/Amogue/vivado_projects/MIPS_Processor_REV_2/MIPS_Processor_REV_2.sim/sim_1/impl/timing/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Amogue/vivado_projects/MIPS_Processor_REV_2/MIPS_Processor_REV_2.sim/sim_1/impl/timing/xsim/xsim.dir/SevenSeg_Top_time_impl/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:06 . Memory (MB): peak = 55.738 ; gain = 1.469
+INFO: [Common 17-206] Exiting Webtalk at Mon Nov 26 17:45:09 2018...

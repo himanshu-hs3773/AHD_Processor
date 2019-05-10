@@ -1,0 +1,382 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Amogue/vivado_projects/MIPS_Processor_REV_2/MIPS_Processor_REV_2.sim/sim_1/behav/modelsim
+Ealu
+Z1 w1543868675
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z7 8../../../../MIPS_Processor_REV_2.srcs/sources_1/new/ALU.vhd
+Z8 F../../../../MIPS_Processor_REV_2.srcs/sources_1/new/ALU.vhd
+l0
+L35
+VEzio56UkJa8hZ5<G5XZ791
+!s100 9R94ieRb4PZPP>aBCjn1i0
+Z9 OP;C;10.4a;61
+31
+Z10 !s110 1544318135
+!i10b 1
+Z11 !s108 1544318135.000000
+Z12 !s90 -64|-93|-work|xil_defaultlib|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/ALU.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Data_Memory.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Hex2LED.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Instruction_Memory.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Program_Counter.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Register_File.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/control_unit.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/MIPS_topModule.vhd|
+Z13 !s107 ../../../../MIPS_Processor_REV_2.srcs/sources_1/new/MIPS_topModule.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/control_unit.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Register_File.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Program_Counter.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Instruction_Memory.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Hex2LED.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Data_Memory.vhd|../../../../MIPS_Processor_REV_2.srcs/sources_1/new/ALU.vhd|
+!i113 1
+Z14 o-93 -work xil_defaultlib -O0
+Z15 tExplicit 1
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+Z16 DEx4 work 3 alu 0 22 Ezio56UkJa8hZ5<G5XZ791
+l50
+L45
+Z17 V[OG>QgDCIcOBXd9^S?fD<1
+Z18 !s100 =nVnU?P=?Y9KB]0nKXNo30
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Econtrol_unit
+Z19 w1544224912
+R3
+R4
+R5
+R6
+R0
+Z20 8../../../../MIPS_Processor_REV_2.srcs/sources_1/new/control_unit.vhd
+Z21 F../../../../MIPS_Processor_REV_2.srcs/sources_1/new/control_unit.vhd
+l0
+L13
+VcCXHWV5o`C[HOHzlLVnZa1
+!s100 <J^370YiSQ>z^?ElaUQcj1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R4
+R5
+R6
+Z22 DEx4 work 12 control_unit 0 22 cCXHWV5o`C[HOHzlLVnZa1
+l44
+L32
+Z23 VCWLU62ikMkJFUj5V@TH_e1
+Z24 !s100 7[;lPlRH8oP@Keno?d5>F1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Edatamem
+Z25 w1544318131
+R2
+R3
+R4
+R5
+R6
+R0
+Z26 8../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Data_Memory.vhd
+Z27 F../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Data_Memory.vhd
+l0
+L26
+V<`NmC;5Gf6gEa?WgW7?h60
+!s100 j]jOWCQe_8Dhld2IA8^WV3
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+Z28 DEx4 work 7 datamem 0 22 <`NmC;5Gf6gEa?WgW7?h60
+l185
+L74
+VdFX__mYZI72z@o;KL`IBL3
+!s100 LijA]I[zA4UP1Ybm5Z`=;1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Artl
+R2
+R3
+R4
+R5
+R6
+DEx4 work 7 datamem 0 22 eUd;QoR=IH6ne0dT4R54h2
+l55
+L38
+VXOROII9;I09L454DCB>eQ1
+!s100 MEeAQ7HV6e?D4J7X3fC0E1
+R9
+31
+!s110 1542925327
+!i10b 1
+!s108 1542925327.000000
+R12
+R13
+!i113 1
+R14
+R15
+w1542925323
+Ehex2led
+Z29 w1542738736
+R4
+R3
+R5
+R6
+R0
+Z30 8../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Hex2LED.vhd
+Z31 F../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Hex2LED.vhd
+l0
+L6
+VQMUJkIRY_mVTBLXXKZW3N2
+!s100 DP]H=zW1:`EKii`;_gYF81
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R3
+R5
+R6
+Z32 DEx4 work 7 hex2led 0 22 QMUJkIRY_mVTBLXXKZW3N2
+l12
+L11
+Z33 VRUHKd5?P;?LHb_0OB_8:33
+Z34 !s100 OXBgRQKQ1dOP0KZPlYb600
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Einstruction_memory_module
+Z35 w1544316804
+R3
+R4
+R5
+R6
+R0
+Z36 8../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Instruction_Memory.vhd
+Z37 F../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Instruction_Memory.vhd
+l0
+L26
+VPl53@L@N2^hg>ilccm^E90
+!s100 O]Fcg2TdlR0zEABK[2m[61
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R4
+R5
+R6
+Z38 DEx4 work 25 instruction_memory_module 0 22 Pl53@L@N2^hg>ilccm^E90
+l172
+L33
+Z39 VPnE1JM9K`1jTO`;3c3RGL1
+Z40 !s100 N8dO9D9k7]cTQ?Z_?EZ1H1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Eprogram_counter_module
+Z41 w1544056066
+R3
+R4
+R5
+R6
+R0
+Z42 8../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Program_Counter.vhd
+Z43 F../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Program_Counter.vhd
+l0
+L26
+VXYJ701TdPXEnD8NRa1>MS3
+!s100 gdGY>51zY7`h@=`nKSdRj2
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R4
+R5
+R6
+Z44 DEx4 work 22 program_counter_module 0 22 XYJ701TdPXEnD8NRa1>MS3
+l48
+L40
+Z45 Vk_@kIkImX<[die]AFf49;0
+Z46 !s100 bfFkKcaA269cG4ll8>Ik60
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Eregister_file
+Z47 w1544209217
+R2
+R3
+R4
+R5
+R6
+R0
+Z48 8../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Register_File.vhd
+Z49 F../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Register_File.vhd
+l0
+L33
+V_7:Gze7DUnRjCCAFL0h=;2
+!s100 <oUzA`5CU<ViPkBhm;b:F1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+Z50 DEx4 work 13 register_file 0 22 _7:Gze7DUnRjCCAFL0h=;2
+l123
+L96
+Z51 VkhBj[8J<[Ibk3OT]9hL1h3
+Z52 !s100 P1cjaGiUXLW9_ZM5@iI^20
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Esevenseg_top
+Z53 w1544306020
+R3
+R4
+R5
+R6
+R0
+Z54 8../../../../MIPS_Processor_REV_2.srcs/sources_1/new/MIPS_topModule.vhd
+Z55 F../../../../MIPS_Processor_REV_2.srcs/sources_1/new/MIPS_topModule.vhd
+l0
+L5
+VcFR8FMg4V74MRflk:G_bH1
+!s100 Z>Y86KQk<nAXh@KZo0oHG1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R4
+R5
+R6
+Z56 DEx4 work 12 sevenseg_top 0 22 cFR8FMg4V74MRflk:G_bH1
+l244
+L18
+Z57 VE6G;FcdWf8]?9b:nKGVe80
+Z58 !s100 PAZVPbLDlXI4IR;P`6hOF1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15

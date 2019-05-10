@@ -1,0 +1,29 @@
+# do {SevenSeg_Top_compile.do}
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/work".
+# 
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim".
+# 
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/xil_defaultlib".
+# 
+# Model Technology ModelSim PE vmap 10.4a Lib Mapping Utility 2015.03 Apr  7 2015
+# vmap xil_defaultlib modelsim_lib/msim/xil_defaultlib 
+# Modifying modelsim.ini
+# ** Warning: (vlog-159) Mode option -64 is not supported in this context and will be ignored.
+# 
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 18:17:35 on Nov 26,2018
+# vlog -64 -incr -work xil_defaultlib SevenSeg_Top_time_impl.v 
+# -- Compiling module Hex2LED
+# -- Compiling module Hex2LED_0
+# -- Compiling module Instruction_Memory_module
+# -- Compiling module Program_Counter_module
+# -- Compiling module Register_File
+# -- Compiling module SevenSeg_Top
+# -- Compiling module datamem
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	SevenSeg_Top
+# 	glbl
+# End time: 18:17:36 on Nov 26,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1

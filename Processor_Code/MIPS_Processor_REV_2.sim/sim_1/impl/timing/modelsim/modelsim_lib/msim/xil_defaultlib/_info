@@ -1,0 +1,228 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Amogue/vivado_projects/MIPS_Processor_REV_2/MIPS_Processor_REV_2.sim/sim_1/impl/timing/modelsim
+vControl_Unit
+Z1 !s110 1543178256
+!i10b 1
+!s100 ;EW3a9DBeJ_34jbGA8l1E0
+IYQAn<DKaj=HXlT?kn6:Vg2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1543178253
+Z4 8SevenSeg_Top_time_impl.v
+Z5 FSevenSeg_Top_time_impl.v
+Z6 L0 16
+Z7 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z8 !s108 1543178255.000000
+Z9 !s107 SevenSeg_Top_time_impl.v|
+Z10 !s90 -64|-incr|-work|xil_defaultlib|SevenSeg_Top_time_impl.v|
+!s101 -O0
+!i113 1
+Z11 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@control_@unit
+vdatamem
+Z12 !s110 1543274256
+!i10b 1
+!s100 U7RJj?H1R@HTBJ@UVK0SX0
+IUoIhQa]9H:bTzX9W71Z0A1
+R2
+R0
+Z13 w1543274251
+R4
+R5
+L0 43229
+R7
+r1
+!s85 0
+31
+Z14 !s108 1543274255.000000
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+vglbl
+R12
+!i10b 1
+!s100 WNZ8U`CS27iP56ahPJ4lA2
+I1ga^NkhTe5mad8_WN^E8G3
+R2
+R0
+R13
+R4
+R5
+L0 67717
+R7
+r1
+!s85 0
+31
+R14
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+vHex2LED
+R12
+!i10b 1
+!s100 >9k1RVAoe0kHOOnKVD@il0
+IZ_GPeOlzK[>JD:68iITC_2
+R2
+R0
+R13
+R4
+R5
+R6
+R7
+r1
+!s85 0
+31
+R14
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+n@hex2@l@e@d
+vHex2LED_0
+R12
+!i10b 1
+!s100 1RUb4kHfDlOcNCUe0l_Ta3
+IN[_L8C[NXIm1;L]j6oZ?I3
+R2
+R0
+R13
+R4
+R5
+L0 254
+R7
+r1
+!s85 0
+31
+R14
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+n@hex2@l@e@d_0
+vHex2LED_1
+R1
+!i10b 1
+!s100 j[cQB7?VOjgV1@iE;nAmb1
+IMVhNOod9kB3[cLik=dTkQ3
+R2
+R0
+R3
+R4
+R5
+L0 348
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+n@hex2@l@e@d_1
+vInstruction_Memory_module
+R12
+!i10b 1
+!s100 VE7g_0@0gR5YLnl4W>QmF0
+IA`iG4;KR;50MPKO^OA1j42
+R2
+R0
+R13
+R4
+R5
+L0 459
+R7
+r1
+!s85 0
+31
+R14
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+n@instruction_@memory_module
+vProgram_Counter_module
+R12
+!i10b 1
+!s100 S>X0QaVmESIP0WkaDdOA50
+ImS4=<E6K50JzY[b?GNnOn2
+R2
+R0
+R13
+R4
+R5
+L0 2439
+R7
+r1
+!s85 0
+31
+R14
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+n@program_@counter_module
+vRegister_File
+R12
+!i10b 1
+!s100 _>UkiO><A_2^<Ue4BKhQ`0
+I^=E0mUH>G_oN]VRSP78511
+R2
+R0
+R13
+R4
+R5
+L0 21316
+R7
+r1
+!s85 0
+31
+R14
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+n@register_@file
+vSevenSeg_Top
+R12
+!i10b 1
+!s100 kI_0=JKLE=>`@Caz894Z20
+Iheg18V?_X>K?1EIbE=FIj0
+R2
+R0
+R13
+R4
+R5
+L0 40901
+R7
+r1
+!s85 0
+31
+R14
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+n@seven@seg_@top

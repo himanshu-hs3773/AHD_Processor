@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amogue/vivado_projects/MIPS_Processor_REV_2/MIPS_Processor_REV_2.sim/sim_1/impl/timing/xsim/SevenSeg_Top_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Hex2LED
+INFO: [VRFC 10-311] analyzing module Hex2LED_0
+INFO: [VRFC 10-311] analyzing module Instruction_Memory_module
+INFO: [VRFC 10-311] analyzing module Program_Counter_module
+INFO: [VRFC 10-311] analyzing module Register_File
+INFO: [VRFC 10-311] analyzing module SevenSeg_Top
+INFO: [VRFC 10-311] analyzing module datamem
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../MIPS_Processor_REV_2.srcs/sources_1/new/ALU.vhd" \
+"../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Data_Memory.vhd" \
+"../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Hex2LED.vhd" \
+"../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Instruction_Memory.vhd" \
+"../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Program_Counter.vhd" \
+"../../../../MIPS_Processor_REV_2.srcs/sources_1/new/Register_File.vhd" \
+"../../../../MIPS_Processor_REV_2.srcs/sources_1/new/control_unit.vhd" \
+"../../../../MIPS_Processor_REV_2.srcs/sources_1/new/MIPS_topModule.vhd" \
+
+# Do not sort compile order
+nosort
